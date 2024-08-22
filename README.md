@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Sayed</h1>
-<h3 align="center">Open Source Applications Development Trainee @ ITI New Capital Branch</h3>
+<h3 align="center">Full-stack developer @<a href="https://solutions.fixed.global/en" >Fixed Solutions</a></h3>
+<h3 align="center">ITI Graduate Intake 44 Open source applications development Track</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **omar.sayyed.khalil@gmail.com**
